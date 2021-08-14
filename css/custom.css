@@ -1,0 +1,32 @@
+.modulright
+{
+  border-radius: 55px 0px 55px 2px;
+-moz-border-radius: 55px 0px 55px 2px;
+-webkit-border-radius: 55px 0px 55px 2px;
+border: #000000;
+}
+.modulleft
+{
+  border-radius: 0px 55px 0px 55px;
+-moz-border-radius: 0px 55px 0px 55px;
+-webkit-border-radius: 0px 55px 0px 55px;
+border: #000000;
+}
+.menu_back_border
+{
+  border-radius: 20px 20px 20px 20px;
+-moz-border-radius: 20px 20px 20px 20px;
+-webkit-border-radius: 20px 20px 20px 20px;
+border: #000000;
+}
+
+
+.footer{
+    border-radius: 55px 55px 55px 55px;
+    -moz-border-radius: 55px 55px 55px 55px;
+    -webkit-border-radius: 55px 55px 55px 55px;
+    background-color: #c9c9c9;
+    height: 50px;
+    vertical-align: middle;
+    
+}
